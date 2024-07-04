@@ -6,6 +6,7 @@ I am currently doing the [ABC360](https://atcoder.jp/contests/abc360) contest.
 
 ## Completed Problems
 
-All the problems I have completed are listed below:
+All the problems I have solved are listed below:
 - ABC360:
-  - **A:** A Healthy Breakfast 
+  - **A:** A Healthy Breakfast
+  - **B:** Vertical Reading
